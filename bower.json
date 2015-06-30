@@ -3,7 +3,7 @@
   "version": "1.1.1",
   "description": "CSS and SVG animation library",
   "main": [
-    "animate.js"
+    "animate.min.js"
   ],
   "dependencies": {
   },
