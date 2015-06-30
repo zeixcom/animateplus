@@ -1,0 +1,27 @@
+{
+  "name": "animateplus",
+  "version": "1.1.1",
+  "description": "CSS and SVG animation library",
+  "main": [
+    "animate.js",
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "moduleType": [
+  ],
+  "keywords": [
+  ],
+  "authors": [
+    "Benjamin De Cock <ben@deaxon.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
